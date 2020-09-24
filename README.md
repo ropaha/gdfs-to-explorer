@@ -10,7 +10,7 @@ Following the steps below you can create the same shortcut for Google Drive File
 
 Check your Google Drive File Stream version is supported.
 
-![Google Drive File Stream version](<https://img.roga.io/GDFS-Version.jpg>)
+![Google Drive File Stream version](<https://img.roga.io/GDFS-Version2.jpg>)
 
 Supported Versions:
 
@@ -20,7 +20,7 @@ Supported Versions:
 ## Installation
 
 1. Download a release matching your Google Drive File Stream version.
-2. Open Google Drive File Stream, go to settings and check witch drive letter is used. ![Google Drive File Stream drive letter](<https://img.roga.io/GDFS-Drive.jpg>)
+2. Open Google Drive File Stream, go to settings and check witch drive letter is used. ![Google Drive File Stream drive letter](<https://img.roga.io/GDFS-Drive2.jpg>)
 3. Open  **add-gdfs.reg**  in your favourite text editor.
 4. Update the TargetFolderPath so that the final value is the drive letter Google Drive File Stream is using (see 2.). Ensure that you use `\\` in the drive letter. eg. `"TargetFolderPath"="G:\\"`
 5. Save all changes
@@ -30,7 +30,7 @@ Supported Versions:
 
 Your Explorer sidebar should look now like this
 
-![Google Drive File Stream Explorer sidebar](<https://img.roga.io/GDFS-Explorer.jpg>)
+![Google Drive File Stream Explorer sidebar](<https://img.roga.io/GDFS-Explorer2.jpg>)
 
 ## Uninstall
 
