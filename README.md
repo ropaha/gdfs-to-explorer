@@ -30,7 +30,7 @@ Supported Versions:
 
 Your Explorer sidebar should look now like this
 
-![Google Drive File Stream Explorer sidebar](<https://img.roga.io/GDFS-Explorer.jpg>)
+![Google Drive File Stream Explorer sidebar](<https://img.roga.io/GDFS-Explorer2.jpg>)
 
 ## Uninstall
 
