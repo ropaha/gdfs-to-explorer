@@ -6,16 +6,24 @@ Following the steps below you can create the same shortcut for Google Drive File
 
 **Disclaimer: This was only tested on Windows 10 Professional. Ensure you backup your registry before making any changes.**
 
+## Requirements
+
+Check your Google Drive Filestream version is supported. Supported Versions:
+
+- 42.0.11.0
+- 41.0.2.0
+
 ## Installation
 
-- Download this repository.
-- Open  **add-gdfs.reg**  in your favourite text editor.
-- Update the TargetFolderPath so that the final value is the drive letter Google Drive File Stream is using. Ensure that you use `\\` in the drive letter. eg. `"TargetFolderPath"="G:\\"`
-- Save all changes
-- Double-click  **add-gdfs.reg**  to install and ensure you click yes when prompted.
+1. Download a release matching your Google Drive File Stream version.
+2. Open Google Drive File Stream, go to settings and check witch drive letter is used.
+3. Open  **add-gdfs.reg**  in your favourite text editor.
+4. Update the TargetFolderPath so that the final value is the drive letter Google Drive File Stream is using (see 2.). Ensure that you use `\\` in the drive letter. eg. `"TargetFolderPath"="G:\\"`
+5. Save all changes
+6. Double-click  **add-gdfs.reg**  to install and ensure you click yes when prompted.
 
 ## Uninstall
 
-- Double-click  **remove-gdfs.reg**  to uninstall and ensure you click yes when prompted.
+1. Double-click  **remove-gdfs.reg**  to uninstall and ensure you click yes when prompted.
 
 Credits: [**luke.digital**](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
