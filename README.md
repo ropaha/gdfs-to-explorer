@@ -25,6 +25,8 @@ Check your Google Drive File Stream version is supported.
 
 Supported Versions:
 
+- 44.0.12.0
+- 43.0.8.0
 - 42.0.11.0
 - 41.0.2.0
 
